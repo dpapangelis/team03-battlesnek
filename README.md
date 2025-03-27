@@ -18,3 +18,11 @@ This project uses [Node.js](https://nodejs.org/en/) and [Express](https://expres
 ## Next Steps
 
 Continue with the [Battlesnake Quickstart Guide](https://docs.battlesnake.com/quickstart) to customize and improve your Battlesnake's behavior.
+
+-------------
+
+# team03-battlesnek
+
+Official repository of Team 03 for Module CCS2430 Coursework
+
+Created by Team 03 — using Git, GitHub, and good software engineering practices...
