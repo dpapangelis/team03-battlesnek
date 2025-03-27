@@ -49,3 +49,6 @@ temp/
 # System files
 .DS_Store
 Thumbs.db
+
+# Other
+notes
