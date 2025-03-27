@@ -11,9 +11,3 @@ Created by Team 03 — using Git, GitHub, and good software engineering practice
 This project uses [Node.js](https://nodejs.org/en/) and [Express](https://expressjs.com/).
 
 -------------
-
-# team03-battlesnek
-
-
-
-
