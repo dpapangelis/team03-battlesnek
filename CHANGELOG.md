@@ -17,6 +17,7 @@ and adheres to [Semantic Versioning](https://semver.org/).
 - Created initial iteration issues and categorized them as 'Story' and 'Task'
 - Created and applied GitHub labels (e.g., 'tdd', 'iteration:1', 'enhancement')
 - Implemented custom Pull Request template (.github/PULL_REQUEST_TEMPLATE.md)
+- Updated package.json with correct version, added lint and test dependencies (eslint and jest)
 - Drafted complete Iteration 1 issues using consistent structure (user story, tasks, file paths, labels)
 - Defined semantic versioning workflow
 
