@@ -10,11 +10,11 @@
     "format": "prettier --write ."
   },
   "jest": {
-  "testEnvironment": "node"
+    "testEnvironment": "node"
   },
   "dependencies": {
     "@types/node": "^18.0.6",
-    "express": "^4.18.1",
+    "express": "^4.21.2",
     "node-fetch": "^3.2.6"
   }
 }
