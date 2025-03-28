@@ -1,6 +1,6 @@
 {
   "name": "team03-battlesnek",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "The Battlesnake of Team 03 for Module CCS2430 Coursework",
   "type": "module",
   "main": "index.js",
