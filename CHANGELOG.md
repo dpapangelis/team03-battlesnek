@@ -32,3 +32,9 @@ Development and collaboration will begin from this point forward.
 Good luck and have fun!
 
 ---
+
+## [0.2.0] - 2025-03-28
+
+### Added
+- Customized the Battlesnake's appearance (color, head, tail)
+- Implemented default response to `/` and `/ping` endpoints
